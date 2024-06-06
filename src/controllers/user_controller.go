@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"GO/models"
-	"GO/utils"
+	"GO/src/models"
+	"GO/src/utils"
 	"context"
 	"errors"
 	"net/http"
